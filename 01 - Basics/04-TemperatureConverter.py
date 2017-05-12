@@ -1,4 +1,7 @@
-#HOMEWORK
+#   HOMEWORK 01
+#   Michael Chen W.
+#   https://github.com/michaelcw02/Python
+
 
 import argparse
 
