@@ -11,7 +11,7 @@ args = parser.parse_args()
 
 number = args.number
 
-path = "05-ExerciseRandomFiles/"
+path = "08-ExerciseRandomFiles/"
 name = "archive-"
 
 # make some new files....
