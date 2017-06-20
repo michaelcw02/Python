@@ -1,14 +1,14 @@
 ## Little tutorial on how to install and run python code
 
 1. Download Python 3 or 2 in:
-    [Download Python] (https://www.python.org/downloads/)
+    [Download Python](https://www.python.org/downloads/)
 2. Run it and *Make sure to set it for all users!* or follow the next link
-    [How to intall Python] (https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
+    [How to intall Python](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
 
 ### OPTION 1 - USE PYCHARM
 
 1. Download PyCharm
-    [Download PyCharm] (https://www.jetbrains.com/pycharm/download)
+    [Download PyCharm](https://www.jetbrains.com/pycharm/download)
 2. Do the normal installation
 3. Once it's done, you must do the following:
     1. Open PyCharm.
@@ -21,7 +21,7 @@
 ### OPTION 2 - USE VISUAL STUDIO CODE
 
 1. Download Visual Studio Code
-    [Download Visual Studio Code] (https://code.visualstudio.com/download)
+    [Download Visual Studio Code](https://code.visualstudio.com/download)
 2. Do the normal installation
 3. Press `Ctrl + Shift + X` and then type 'Python'
 4. Find the one whose developer is *Don Jayamanne*
