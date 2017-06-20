@@ -2,7 +2,7 @@
 
 1. Download Python 3 or 2 in:
     [Download Python](https://www.python.org/downloads/)
-2. Run it and *Make sure to set it for all users!* or follow the next link
+2. Run it and *Make sure to set it for all users!* or follow the next link:
     [How to intall Python](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
 
 ### OPTION 1 - USE PYCHARM
