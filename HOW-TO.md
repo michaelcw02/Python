@@ -7,7 +7,7 @@
 
 ### OPTION 1 - USE PYCHARM
 
-1. Download PyCharm
+1. Download PyCharm:
     [Download PyCharm](https://www.jetbrains.com/pycharm/download)
 2. Do the normal installation
 3. Once it's done, you must do the following:
@@ -20,7 +20,7 @@
 
 ### OPTION 2 - USE VISUAL STUDIO CODE
 
-1. Download Visual Studio Code
+1. Download Visual Studio Code:
     [Download Visual Studio Code](https://code.visualstudio.com/download)
 2. Do the normal installation
 3. Press `Ctrl + Shift + X` and then type 'Python'
