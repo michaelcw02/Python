@@ -19,6 +19,14 @@ for letter in 'UNIVERSIDAD':
 suma = 0
 for i in range(0, 10):
     suma += i
+print(suma)
+
+# this second example has an detail... python is not like javascript that concatenates int as strings
+# it needs to use str()
+suma = ''
+for i in range(0, 10):
+    suma += str(i)
+print(suma)
 
 
 print('End!')
