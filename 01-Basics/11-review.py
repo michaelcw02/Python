@@ -9,11 +9,11 @@ else:
 # this is a good practice
 if entrada_1.lower() == 'NOmbre'.lower():
     print('Good Practice')
-else 
+else:
     print('Not working')
 
 
-for letter in 'UNIVERSIDAD'
+for letter in 'UNIVERSIDAD':
     print(letter)
 
 suma = 0
