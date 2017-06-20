@@ -6,4 +6,4 @@ This course is possible thanks to:
 ### *Majid Bayani Abbasy*
 
 Instructions about running Python:
-### [Instrucctions] (HOW-TO.md)
+### [Instructions](HOW-TO.md)
