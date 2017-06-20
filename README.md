@@ -4,3 +4,6 @@ This repository is for a course taken at UNA given by:
 
 This course is possible thanks to:
 ### *Majid Bayani Abbasy*
+
+Instructions about running Python:
+### [Instrucctions] (HOW-TO.md)
