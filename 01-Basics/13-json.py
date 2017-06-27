@@ -10,5 +10,7 @@ response = urllib.request.urlopen(req)
 reader = codecs.getreader("utf-8")
 data = json.load(reader(response))
 
-print(data)
+
+for i in data:
+    print(i)
 
